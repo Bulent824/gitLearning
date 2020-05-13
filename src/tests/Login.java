@@ -6,5 +6,7 @@ public class Login {
         
         String name = "Bulent";
         System.out.println("name = " + name);
+
+        //this line is written by Intellij
     }
 }

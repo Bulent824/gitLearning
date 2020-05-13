@@ -1,4 +1,4 @@
-class note 05/06
+class note 05/06/2020
 Git -> version controle system
 project : gitLearning
 repositry : 1. local(git) repository
@@ -10,16 +10,16 @@ repositry : 1. local(git) repository
              2. Remote(github) repo
 How do I create a git repo?
 
-    git init --> create an empity git repo
+    git init --> create an emptiy git repo
 how to save your codes/files on git repo?
    1. Create a class / change a class
    2. add the file/class to staging area
        git add . --> "." everything
 
-   3. Commiting / take snapshot + put them in git repo
+   3. Committing / take snapshot + put them in git repo
            git commit -m "message"
            if you created a class:
-            "add Login.java, upaate pom.xml"
+            "add Login.java, update pom.xml"
 
            if you made changes :
            "update Login.java"
@@ -54,7 +54,7 @@ git commit -a ""
   1. git(local) repo
              git init
   2. github(remote) repo
-       go to github , clicl "+"
+       go to github , click "+"
 ---------------------
 fatal: remote origin already exists.
 git remote set-url origin https://github.com/Asiya59/gitLearning.git
